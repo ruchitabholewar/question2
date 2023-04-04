@@ -1,15 +1,11 @@
-body {
-  margin: 0 auto;
-  max-width: 35em;
+body
+ {
+   margin:auto ;
+   max-width: 35em;
   line-height: 1.5;
   padding: 4em 1em;
   color: #34568B;
   text-align: center;
 }
-.wh-breadcrumb {
-  align-items: center;
-  display: flex;
-  flex: 0 0 auto;
-  ;
-}
+
 
